@@ -2,4 +2,9 @@
 127.0.0.1   www.facebook.com
 127.0.0.1   youtube.com
 127.0.0.1   www.youtube.com
-
+127.0.0.1   reddit.com
+127.0.0.1   www.reddit.com
+127.0.0.1   twitch.com
+127.0.0.1   www.twitch.com
+127.0.0.1   twitter.com
+127.0.0.1   www.twitter.com
