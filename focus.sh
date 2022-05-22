@@ -22,4 +22,3 @@ do
 done
 
 bash "$(dirname -- "$0")/unfocus.sh
-
