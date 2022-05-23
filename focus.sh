@@ -21,4 +21,4 @@ do
     SECONDS_LEFT=$(( $SECONDS_LEFT - 1 ))
 done
 
-bash "$(dirname -- "$0")/unfocus.sh
+bash "$(dirname -- "$0")/unfocus.sh"

@@ -12,3 +12,5 @@
 127.0.0.1   www.netflix.com
 127.0.0.1   netflix.com
 127.0.0.1   www.netflix.com
+127.0.0.1   messenger.com
+127.0.0.1   www.messenger.com
