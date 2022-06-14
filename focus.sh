@@ -20,7 +20,7 @@ do
     # capture ctrl-c
     trap 'bash "$(dirname -- "$0")/unfocus.sh"; exit 0' INT
     echo -ne "\033[K"
-    echo -ne "\rFocus123! Sites will unblock in ${HRS_LEFT} Hours, ${MINS_LEFT} minutes (${SECONDS_LEFT} seconds..."
+    echo -ne "\rFocus! Sites will unblock in ${HRS_LEFT} Hours, ${MINS_LEFT} minutes (${SECONDS_LEFT} seconds..."
     sleep 1
     SECONDS_LEFT=$(( $SECONDS_LEFT - 1 ))
     # using new seconds value
